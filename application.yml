@@ -1,0 +1,10 @@
+connectors:
+  - name: first-connector
+    user: user
+    pass: pass
+  - name: second-connector
+    user: user
+    pass: pass
+session:
+  sleep-secs-per-query: 0.1
+
